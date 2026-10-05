@@ -1,175 +1,179 @@
-# 📚 Mini Reading Tracker
-
+<!-- Title The Full Name -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+ <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Phan+Nhat+Cuong"></a>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://twitter.com/hoangtien_2k3"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/cFAkCXVQ" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/hoangtien_2k3"><img width="32px" alt="Dev.to" title="hoangtien2k3 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/hoangtien2k3"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/@hoangtien2k3"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.buymeacoffee.com/hoangtien2k3"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-Một ứng dụng web giúp người dùng **tìm kiếm sách**, **lưu vào tủ sách cá nhân**, và **theo dõi tiến độ đọc** một cách trực quan. Dữ liệu sách được tích hợp từ Public API của [Open Library](https://openlibrary.org/).
 
-### 📸 Giao diện ứng dụng
+<!-- Information myself -->
+<h2>👋 Hi there, Good Day</h2>
+
+<div>
+  <a href="https://github.com/reactifyx">
+      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="210">
+  </a>
+
+  <div align="left">
+
+I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
+and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
+</picture>
+
+  </div>
+</div>
+
+
+<h2>📚 Language and Tools</h2>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/reactivex.svg" alt="RxJava" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="apache_kafka" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40">
+</p>
+
+
+<!-- More Information Details Myself -->
+<details>
+<summary> More about me, backend dev 🔥
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge">
+</summary> 
 
 <p align="center">
-  <img src="./image/search.png" width="48%" alt="Tìm kiếm sách" />
-  <img src="./image/Library.png" width="48%" alt="Tủ sách cá nhân" />
+
+</a>
+
+![Header](img/header_.png)
+
+![TIEN2K3](gitartwork.svg)
+
+![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
+</picture>
+
+
+ <h3 align="left"> 📚 Languages and Tools </h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
+  <img src="https://img.shields.io/badge/Java-snow?logo=coffeescript&logoColor=FC4C02" alt="" />
+  <img src="https://img.shields.io/badge/C%2B%2B-snow?logo=c%2B%2B&logoColor=00599C" alt="" />
+  <img src="https://img.shields.io/badge/C-snow?logo=c&logoColor=A8B9CC" alt="" />
+  <img src="https://img.shields.io/badge/C%23-snow?logo=csharp&logoColor=512BD4" alt="" />
+  <img src="https://img.shields.io/badge/JavaScript-snow?logo=javascript&logoColor=E9CE30" alt="" />
+  <img src="https://img.shields.io/badge/Go-snow?logo=go&logoColor=00ADD8" alt="" />
+  <img src="https://img.shields.io/badge/Swift-snow?logo=swift&logoColor=F05138" alt="" />
+  <img src="https://img.shields.io/badge/Rust-snow?logo=rust&logoColor=000000" alt="" />
+  <img src="https://img.shields.io/badge/Ruby-snow?logo=ruby&logoColor=CC342D" alt="" />
+  <img src="https://img.shields.io/badge/Kotlin-snow?logo=kotlin&logoColor=7F52FF" alt="" />
+  <img src="https://img.shields.io/badge/TypeScript-snow?logo=typescript&logoColor=3178C6" alt="" />
+  <img src="https://img.shields.io/badge/Dart-snow?logo=dart&logoColor=0175C2" alt="" />
 </p>
-<p align="center">
-  <img src="./image/Reading.png" width="48%" alt="Đang đọc" />
-  <img src="./image/Completed.png" width="48%" alt="Đã hoàn thành" />
-</p>
 
----
+<h3>🔥 Streak Stats</h3>
 
-## 📑 Mục lục
-- [✨ Tính năng chính](#-tính-năng-chính)
-- [🛠️ Công nghệ sử dụng](#️-công-nghệ-sử-dụng)
-- [🚀 Hướng dẫn chạy Local](#-hướng-dẫn-chạy-local-môi-trường-phát-triển)
-- [🏗️ Mô tả kiến trúc](#️-mô-tả-kiến-trúc)
-- [📡 Danh sách API](#-danh-sách-api-backend-endpoints)
-- [🌐 Triển khai (Deploy)](#-triển-khai-deploy)
-- [💡 Giả định & Hướng cải thiện](#-giả-định--hướng-cải-thiện)
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/hoangtien2k3/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hoangtien2k3's streak" src="https://streak-stats.demolab.com/?user=hoangtien2k3&theme=monokai-metallian&hide_border=true"/>
+      <img src="https://i.ibb.co/N366vtQ/hoangtien2k3.png" alt="hoangtien2k3" width="200px">
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="hoangtien2k3.github.io">hoangtien2k3.github.io</a></p>
+  </p>
 
----
+<h3>💻💬 GitHub Profile Stats</h3>
 
-## ✨ Tính năng chính
-- 🔍 **Tìm kiếm sách**: Dễ dàng tìm kiếm thông tin sách từ nguồn dữ liệu khổng lồ của Open Library.
-- 📖 **Quản lý tủ sách**: Lưu trữ và phân loại sách theo các trạng thái (Muốn đọc, Đang đọc, Đã đọc).
-- 📈 **Theo dõi tiến độ**: Cập nhật số trang đã đọc, đánh giá (rating) và thêm ghi chú cá nhân.
-- ⚡ **Tự động hóa**: Tự động chuyển trạng thái hoàn thành khi đọc hết số trang sách.
+  <div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
 
----
 
-## 🛠️ Công nghệ sử dụng
+<a href="#"><img alt="hoangtien2k3's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hoangtien2k3&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="hoangtien2k3's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
-- **Frontend:** Vue.js 3, Vite, Vanilla CSS.
-- **Backend:** Node.js, Axios.
-- **Database:** MySQL.
-- **Tích hợp API:** [Open Library Search API](https://openlibrary.org/dev/docs/api/search) & [Books API](https://openlibrary.org/dev/docs/api/books).
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
+or skill level.
 
----
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hoangtien2k3's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangtien2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-## 🚀 Hướng dẫn chạy Local (Môi trường phát triển)
+<h3>⚡ Recent GitHub Activity</h3>
 
-### Yêu cầu hệ thống:
-- [Node.js](https://nodejs.org/en/) (phiên bản 16 trở lên)
-- [MySQL Server](https://dev.mysql.com/downloads/mysql/) đang hoạt động.
+ <a href="https://commits.top/vietnam.html">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
+  </a>
+  <a href="https://commits.top/vietnam_private.html">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3&country=VietNam_Private&bg_color=293035&text_color=fafafa&border_color=293035">
+  </a>
 
-### Bước 1: Khởi tạo Database
-1. Sử dụng file `structsql.txt` được cung cấp trong thư mục dự án và chạy script trong MySQL để tạo cấu trúc bảng.
+  <p><a href="hoangtien2k3.github.io"><img src="https://github.com/hoangtien2k3/hoangtien2k3/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@hoangtien2k3's Web hoangtien2k3"></a></p>
 
-### Bước 2: Chạy Backend (Node.js)
-1. Mở Terminal và di chuyển vào thư mục backend:
-   ```bash
-   cd be
-   ```
-2. Cài đặt các gói phụ thuộc (nếu chưa cài):
-   ```bash
-   npm install
-   ```
-3. Cấu hình Database: Mở file `be/.env` và sửa đổi `DB_PASSWORD` / `DB_USER` sao cho khớp với tài khoản MySQL của bạn.
-4. Chạy Server:
-   ```bash
-   npm start
-   ```
-   > **Lưu ý:** Terminal hiển thị `Node.js HTTP Server is running on http://localhost:3000` là thành công.
 
-### Bước 3: Chạy Frontend (Vue.js)
-1. Mở một Terminal khác, di chuyển vào thư mục frontend:
-   ```bash
-   cd frontend
-   ```
-2. Cài đặt các gói phụ thuộc:
-   ```bash
-   npm install
-   ```
-3. Khởi chạy Vite Dev Server:
-   ```bash
-   npm run dev
-   ```
-4. Truy cập ứng dụng qua đường dẫn được cung cấp (thường là `http://localhost:5173`).
+<div align="center">
+<a href="https://github.com/hoangtien2k3">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoangtien2k3&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoangtien2k3&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangtien2k3&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoangtien2k3&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangtien2k3&theme=2077" height="180em" />
+</div>
 
----
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vineet221713.io)
 
-## 🏗️ Mô tả kiến trúc
-
-- **Kiến trúc Client-Server:**
-  - Frontend (Vue) không gọi trực tiếp API của bên thứ 3 (Open Library) để tránh lộ logic và gặp lỗi CORS.
-  - Backend Node.js đóng vai trò như một Proxy server: Gọi dữ liệu, lọc gọn chuỗi JSON khổng lồ trả về dạng đơn giản nhất, sau đó mới gửi lại cho Frontend.
-- **Sơ đồ Database (Bảng `books`):**
-  - Quản lý metadata sách: `open_library_work_id`, `title`, `author`, `cover_url`, `total_pages`,...
-  - Quản lý tracking cá nhân: `status` (Enum: `WANT_TO_READ`, `READING`, `READ`), `current_page`, `rating`, `note`.
-  - Tự động hóa mốc thời gian: `started_at`, `finished_at`.
-  - Indexing: Được thiết lập chỉ mục (index) cho `status` và `created_at` để tối ưu tốc độ truy xuất.
-
----
-
-## 📡 Danh sách API (Backend endpoints)
-
-**Base URL:** `http://localhost:3000`
-
-### 1. Proxy Open Library
-- `GET /api/books/search?q={keyword}&page={n}&limit=20`: Tìm kiếm sách.
-- `GET /api/books/:workId`: Lấy chi tiết tác phẩm (Ví dụ: `/api/books/OL27448W`).
-
-### 2. Library CRUD
-- `GET /api/library`: Lấy danh sách tủ sách cá nhân (Hỗ trợ query filter, VD: `?status=READING`).
-- `GET /api/library/stats`: Lấy thống kê số lượng (Tổng số / Đang đọc / Đã đọc).
-- `POST /api/library`: Thêm sách vào tủ. Trả về `409 Conflict` nếu trùng lặp `workId`.
-- `PATCH /api/library/:id`: Cập nhật tiến độ đọc (`current_page`), trạng thái, đánh giá (`rating`), ghi chú (`note`).
-  - *Logic tự động:* Chuyển trạng thái hoàn thành (`READ`) nếu số trang đọc bằng tổng số trang.
-- `DELETE /api/library/:id`: Xoá sách khỏi tủ.
-
----
-
-## 🌐 Triển khai (Deploy)
-
-Dự án được triển khai (deploy) hoàn toàn miễn phí trên các nền tảng đám mây:
-
-- **Frontend URL:** [https://mini-reading-tracker-iota.vercel.app/](https://mini-reading-tracker-iota.vercel.app/)
-- **Backend URL:** [https://mini-reading-tracker-rj7q.onrender.com](https://mini-reading-tracker-rj7q.onrender.com)
-
-### Các bước và cấu hình triển khai:
-
-1. **Database (Railway):**
-   - Tạo một dự án mới trên Railway và thêm MySQL plugin.
-   - Lấy thông tin kết nối (Host, User, Password, Port).
-   - Sử dụng công cụ MySQL Workbench kết nối vào database và chạy nội dung file `structsql.txt` để khởi tạo cấu trúc bảng.
-
-2. **Backend Node.js (Render):**
-   - Tạo mới một "Web Service" trên Render và liên kết với Github repository của dự án.
-   - Cấu hình:
-     - Root Directory: `be`
-     - Build Command: `npm install`
-     - Start Command: `npm start`
-   - **Environment Variables:** Thiết lập các biến môi trường kết nối đến Railway MySQL (`DB_HOST`, `DB_USER`, `DB_PASSWORD`, `DB_NAME`, `DB_PORT`) và cấu hình `CORS_ORIGIN` trỏ về URL của Frontend để tránh lỗi CORS.
-
-3. **Frontend Vue.js (Vercel):**
-   - Import Github repository vào Vercel.
-   - Cấu hình:
-     - Root Directory: `frontend`
-     - Framework Preset: `Vite`
-     - Build Command: `npm run build`
-     - Output Directory: `dist`
-   - Cấu hình file biến môi trường (nếu có thiết lập) để API URL trỏ về Backend URL của Render.
-
----
-
-## 💡 Giả định, Hạn chế & Hướng cải thiện
-
-### 📌 Các giả định (Assumptions)
-- **Thiếu hụt dữ liệu API:** API Open Library không phải lúc nào cũng trả về đủ thông tin (vd: `total_pages`). Hệ thống giả định và thiết lập logic bỏ qua kiểm tra tự động chuyển trạng thái (*auto-complete*) nếu bị thiếu dữ liệu này để tránh gây lỗi ứng dụng.
-- **Người dùng đơn lẻ:** Hệ thống hiện tại được thiết kế phục vụ cho một người dùng duy nhất quản lý tủ sách cá nhân.
-
-### ⚠️ Hạn chế (Limitations)
-- **Hiệu suất API bên thứ 3:** Do sử dụng API công khai miễn phí của Open Library, một số truy vấn tìm kiếm sách có thể phản hồi chậm hoặc bị giới hạn tỉ lệ (rate limit).
-- **Chưa có Authentication:** Không có chức năng Đăng nhập/Đăng ký nên chưa hỗ trợ nhiều người dùng với dữ liệu tách biệt, độc lập.
-
-### 🚀 Hướng cải thiện (Nếu có thêm thời gian)
-- **Xác thực và phân quyền (Authentication):** Bổ sung hệ thống đăng nhập bằng JWT để hỗ trợ nhiều người dùng, cho phép mỗi người có một không gian tủ sách riêng biệt và an toàn.
-- **Tối ưu hiệu suất bằng Caching:** Triển khai Redis Cache tại Backend để lưu lại các kết quả tìm kiếm trước đó từ Open Library. Việc này sẽ giúp phản hồi tức thì cho các truy vấn trùng lặp và giảm tải cho API.
-- **Trải nghiệm người dùng (UX):**
-  - Thêm **Pagination (Phân trang)** hoặc **Infinite Scroll** để tối ưu hóa việc render danh sách thư viện cá nhân khi lượng dữ liệu lớn.
-  - Bổ sung **Dashboard thống kê trực quan** bằng các biểu đồ (ví dụ: Chart.js) để thể hiện biểu đồ đọc sách theo tháng, thể loại sách yêu thích.
-  - Cung cấp tính năng **Dark Mode** hiện đại.
+</details>  
