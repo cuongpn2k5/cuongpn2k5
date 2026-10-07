@@ -4,17 +4,41 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/hoangtien_2k3"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+
+  <a href="https://facebook.com/YOUR_FACEBOOK">
+    <img width="32px"
+         alt="Facebook"
+         title="Facebook"
+         src="https://cdn.simpleicons.org/facebook/1877F2"/>
+  </a>
+
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/cFAkCXVQ" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img width="32px"
+         alt="Instagram"
+         title="Instagram"
+         src="https://cdn.simpleicons.org/instagram/E4405F"/>
+  </a>
+
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/hoangtien_2k3"><img width="32px" alt="Dev.to" title="hoangtien2k3 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+
+  <a href="https://discord.gg/YOUR_DISCORD">
+    <img width="32px"
+         alt="Discord"
+         title="Discord"
+         src="https://cdn.simpleicons.org/discord/5865F2"/>
+  </a>
+
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/hoangtien2k3"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@hoangtien2k3"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/hoangtien2k3"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+
+  <a href="https://YOUR-PORTFOLIO.com">
+    <img width="32px"
+         alt="Portfolio"
+         title="Portfolio"
+         src="https://cdn.simpleicons.org/googlechrome/4285F4"/>
+  </a>
+
 </p>
 
 
