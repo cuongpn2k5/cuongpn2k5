@@ -75,20 +75,12 @@ and actively contributing to open-source projects for the community. In addition
 
 ---
 
-### 📊 GitHub Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuong-sadboi&theme=react-dark&hide_border=true&area=true" />
-</div>
 
----
 
 ### 📈 GitHub Analytics & Streak
 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cuong-sadboi&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
-  </a>
   
   <br>
 
