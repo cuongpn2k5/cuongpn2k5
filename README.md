@@ -4,43 +4,25 @@
 
 <!-- Social icons section -->
 <p align="center">
-
   <a href="https://facebook.com/YOUR_FACEBOOK">
-    <img width="32px"
-         alt="Facebook"
-         title="Facebook"
-         src="https://cdn.simpleicons.org/facebook/1877F2"/>
+    <img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/fluency/48/facebook-new.png"/>
   </a>
-
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img width="32px"
-         alt="Instagram"
-         title="Instagram"
-         src="https://cdn.simpleicons.org/instagram/E4405F"/>
+    <img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/fluency/48/instagram-new.png"/>
   </a>
-
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="https://discord.gg/YOUR_DISCORD">
-    <img width="32px"
-         alt="Discord"
-         title="Discord"
-         src="https://cdn.simpleicons.org/discord/5865F2"/>
+    <img width="32px" alt="Discord" title="Discord" src="https://img.icons8.com/fluency/48/discord-logo.png"/>
   </a>
-
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="https://YOUR-PORTFOLIO.com">
-    <img width="32px"
-         alt="Portfolio"
-         title="Portfolio"
-         src="https://cdn.simpleicons.org/googlechrome/4285F4"/>
+    <img width="32px" alt="Portfolio" title="Portfolio" src="https://img.icons8.com/fluency/48/domain.png"/>
   </a>
-
 </p>
-
 
 <!-- Information myself -->
 <h2>👋 Hi there, Good Day</h2>
