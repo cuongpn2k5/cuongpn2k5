@@ -5,38 +5,13 @@
 <!-- Social icons section -->
 
 <p align="center">
-
-  <a href="https://facebook.com/YOUR_FACEBOOK">
-    <img width="38px"
-         alt="Facebook"
-         title="Facebook"
-         src="https://cdn.simpleicons.org/facebook/F03B9E"/>
-  </a>
+  <a href="https://facebook.com/YOUR_FACEBOOK"><img width="31px" alt="Facebook" title="Facebook" src="https://cdn.simpleicons.org/facebook/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img width="38px"
-         alt="Instagram"
-         title="Instagram"
-         src="https://cdn.simpleicons.org/instagram/F03B9E"/>
-  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img width="31px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="https://discord.gg/YOUR_DISCORD">
-    <img width="38px"
-         alt="Discord"
-         title="Discord"
-         src="https://cdn.simpleicons.org/discord/F03B9E"/>
-  </a>
+  <a href="https://discord.gg/YOUR_DISCORD"><img width="31px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/discord/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img width="38px"
-         alt="Portfolio"
-         title="Portfolio"
-         src="https://cdn.simpleicons.org/googlechrome/F03B9E"/>
-  </a>
-
+  <a href="https://YOUR-PORTFOLIO.com"><img width="31px" alt="Portfolio" title="Portfolio" src="https://cdn.simpleicons.org/googlechrome/F03B9E"/></a>
 </p>
 
 
