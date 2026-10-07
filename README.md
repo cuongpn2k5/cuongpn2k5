@@ -1,6 +1,6 @@
 <!-- Title The Full Name -->
 <p align="center">
- <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Phan+Nhat+Cuong"></a>
+ <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=40&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Phan+Nhat+Cuong"></a>
 
 <!-- Social icons section -->
 
@@ -21,8 +21,13 @@
 <h2>👋 Hi there, Good Day</h2>
 
 <div>
-  <a href="https://github.com/reactifyx">
-      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="210">
+  <a href="https://github.com/cuongpn2k5">
+    <img
+      src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,mongodb"
+      alt="Tech Stack"
+      align="right"
+      width="280"
+    />
   </a>
 
   <div align="left">
