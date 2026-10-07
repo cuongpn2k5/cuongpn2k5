@@ -9,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/_nhta.jocw"><img width="31px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/YOUR_DISCORD"><img width="31px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/discord/F03B9E"/></a>
+  <a href="https://discord.com/channels/@me"><img width="31px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/discord/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.tiktok.com/@nagii26_05"><img width="31px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/tiktok/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
