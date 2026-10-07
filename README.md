@@ -3,26 +3,47 @@
  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Phan+Nhat+Cuong"></a>
 
 <!-- Social icons section -->
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Phan+Nhat+Cuong">
+  </a>
+</h1>
+
 <p align="center">
+
   <a href="https://facebook.com/YOUR_FACEBOOK">
-    <img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/fluency/48/facebook-new.png"/>
+    <img width="38px"
+         alt="Facebook"
+         title="Facebook"
+         src="https://cdn.simpleicons.org/facebook/F03B9E"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/fluency/48/instagram-new.png"/>
+    <img width="38px"
+         alt="Instagram"
+         title="Instagram"
+         src="https://cdn.simpleicons.org/instagram/F03B9E"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="https://discord.gg/YOUR_DISCORD">
-    <img width="32px" alt="Discord" title="Discord" src="https://img.icons8.com/fluency/48/discord-logo.png"/>
+    <img width="38px"
+         alt="Discord"
+         title="Discord"
+         src="https://cdn.simpleicons.org/discord/F03B9E"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="https://YOUR-PORTFOLIO.com">
-    <img width="32px" alt="Portfolio" title="Portfolio" src="https://img.icons8.com/fluency/48/domain.png"/>
+    <img width="38px"
+         alt="Portfolio"
+         title="Portfolio"
+         src="https://cdn.simpleicons.org/googlechrome/F03B9E"/>
   </a>
+
 </p>
+
 
 <!-- Information myself -->
 <h2>👋 Hi there, Good Day</h2>
