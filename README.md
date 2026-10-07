@@ -11,6 +11,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/YOUR_DISCORD"><img width="31px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/discord/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.tiktok.com/@nagii26_05"><img width="31px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/tiktok/F03B9E"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://YOUR-PORTFOLIO.com"><img width="31px" alt="Portfolio" title="Portfolio" src="https://cdn.simpleicons.org/googlechrome/F03B9E"/></a>
 </p>
 
@@ -26,7 +28,7 @@
   <div align="left">
 
 I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
-and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
+and actively contributing to open-source projects for the community.
 
 ## `> tech_stack --all`
 
